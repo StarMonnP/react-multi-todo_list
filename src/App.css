@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+  background-color: rgba(200, 208, 219, 0.837);
+  height: 100vh;
+}
+
+.navbar {
+  background: linear-gradient(rgba(4, 90, 227, 0.852), transparent);
+  height: 10vh;
+
+}
+
+.m-auto {
+  font-size: 35px !important;
+  
+}
+
+.btn_addTask{
+  margin-top: 10vh;
+  height: 6vh;
+  width: 18vw;
+  font-size: 20px !important;
+}
+
+.input{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.input_field {
+  margin-top: 2vh;
+  font-size: 18px;
+}
+
+.Todo_plane {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3%;
+}
+
+.Todo_sec {
+
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  overflow-x: auto;
+  
+}
+
+.Todo_box {
+  flex: 0 0 29%;
+  font-weight: bold;
+  font-size: 35px;
+  margin: 10px;
+  padding: 20px;
+}
+
+.Card_btn {
+  text-align: left;
+  font-size: 15px;
+  
+}
+
+.img_btn{
+  height: 27px;
+}
+
+
+.arw:before {
+  content: "< "
+}
+
+.arw:after {
+  content: " >"
+}
+
+.text_btn_row {
+  display: flex;
+  flex-direction: row;  
+}
+
+.todo_container {
+  
+  display: flex;
+  flex-direction: column;
+}
+
+.todo_align_left {
+  float: center;
+    width: 92%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.todo_align_right {
+    float: right;
+    width: 8%;
+    text-align: right;
+    font-size: 15px;
+
+}
+
+.img_in_dropdown {
+  height: 15px;
+}
