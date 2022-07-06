@@ -5,12 +5,15 @@ All todo list can have multiple sub tasks
 ## Technology
 html, css, javascript and react
 
-## installation 
+## Installation 
 download with command line  
 `git clone https://github.com/StarMonnP/react-multi-todo_list`
 
-install:  
+Install:  
 `npm install`
 
 to run:  
 `npm start`
+
+## Example from heroku:
+https://react-multi-todo-list.herokuapp.com/
